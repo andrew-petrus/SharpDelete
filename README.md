@@ -47,11 +47,8 @@ Enter your choice: 1
 * Administrator privileges are necessary for options 2, 3, and when entering custom paths under HKLM or most HKCR keys.
 * Choose option 4 for paths not listed, ensuring you have the necessary permissions.
 
-## Precompiled Binary
-You can download the precompiled binary for SharpDelete from the [Releases](https://github.com/andrew-petrus/SharpDelete/releases) section of this repository.
-
 ## Visual Studio Solution & Project
-If you'd like to build SharpDelete from source, you can download the **Visual Studio Solution and Project** from the same [Releases](https://github.com/andrew-petrus/SharpDelete/releases) section. This will allow you to customize the tool as you like.
+If you'd like to build SharpDelete from source, you can download the **Visual Studio Solution and Project** from the [Releases](https://github.com/andrew-petrus/SharpDelete/releases) section. This will allow you to customize the tool as you like.
 
 ## How to Use
 1. Download the latest release from the [Releases](https://github.com/andrew-petrus/SharpDelete/releases) section.
