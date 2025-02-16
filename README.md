@@ -57,6 +57,9 @@ If you'd like to build SharpDelete from source, you can download the **Visual St
     - **Visual Studio Solution**: Open the solution in Visual Studio, build the project, and run the executable.
 3. Simply execute SharpDelete.exe from the GUI or CMD to get started.
 
+## Requirements
+.NET 9.0 Runtime: SharpDelete is built on .NET 9.0, so the .NET 9.0 Runtime must be installed on your system to run the tool.
+
 ## Author
 SharpDelete by [Andrew Petrus](https://au.linkedin.com/in/andrew-petrus-b1131918b).
 
